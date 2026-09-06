@@ -1,0 +1,6 @@
+{
+  "name": "Partical Effects",
+  "description": "Adds effects to your mouse",
+  "main": "click-particles.js",
+  "preview": "preview.png"
+}
